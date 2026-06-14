@@ -85,7 +85,7 @@
 
 A full-stack community services platform connecting NYC residents with food banks, shelters, healthcare, and legal aid in real time. Built with Flutter (cross-platform), Firebase Authentication, Firestore, and Google Maps API. Features dual portals for community members and organizations, a live service map with real-time status updates, multilingual support (English, Arabic, Spanish, Chinese), push notifications, and direct messaging. Architected on microservices with Firebase Cloud Functions and role-based security rules.
 
-**Team:** Abdulla Saleh, Bode Chiu, Diego Pilay, Sarah Khaldi · CSCI 49900 Capstone — CUNY Hunter College
+**Team:** Abdulla Saleh, Bode Chiu, Diego Pilay, Sarah Khaldi 
 
 [View Repo →](https://github.com/Galactic-Avenger/OneStopCommunity)
 
@@ -168,6 +168,5 @@ A restaurant simulation built across 5 phases exploring OOP in C++. Implements i
 ---
 
 <p align="center">
-  B.A. Computer Science · Economics Minor · CUNY Hunter College · Class of 2026<br/>
   Open to opportunities — reach me on <a href="https://www.linkedin.com/in/abdulla-saleh-10">LinkedIn</a>
 </p>
