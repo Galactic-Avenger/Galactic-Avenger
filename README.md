@@ -156,14 +156,6 @@ A restaurant simulation built across 5 phases exploring OOP in C++. Implements i
 
 [View Repo →](https://github.com/Galactic-Avenger/Virtual-Bistro)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galactic-Avenger&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galactic-Avenger&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
 ---
 
