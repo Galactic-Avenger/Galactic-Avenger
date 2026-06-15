@@ -102,7 +102,7 @@ A full-featured iOS app built with UIKit and Swift. Pulls live data from a Graph
 
 [![Demo](https://img.youtube.com/vi/YBJABlX2ddI/hqdefault.jpg)](https://youtube.com/shorts/YBJABlX2ddI)
 
-[View Repo →](https://github.com/Galactic-Avenger/OnePiece)
+[View Repo →](https://github.com/Galactic-Avenger/OnePieceExplorer)
 
 ---
 
