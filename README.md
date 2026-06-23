@@ -89,7 +89,6 @@ A full-stack community services platform connecting NYC residents with food bank
 
 **Team:** Abdulla Saleh, Bode Chiu, Diego Pilay, Sarah Khaldi 
 
-[Can't view Repo because its priavte due to API key→](https://github.com/Galactic-Avenger/OneStopCommunity)
 
 ---
 
