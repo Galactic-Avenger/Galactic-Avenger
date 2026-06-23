@@ -71,8 +71,8 @@
 
 | Credential | Issuer | Year |
 |---|---|---|
-| Desktop Pro — Microsoft Office Suite (Word, Excel, PowerPoint) | TestOut | 2020 |
-| PC Pro — Computer Hardware, OS & Systems | TestOut | 2020 |
+| Desktop Pro — Microsoft Office Suite (Word, Excel, PowerPoint) | TestOut (now CompTIA) | 2020 |
+| PC Pro — Computer Hardware, OS & Systems | TestOut (now CompTIA) | 2020 |
 | Quantum Computing & Qiskit — Winter Break Intensive | Qubit by Qubit | 2022 |
 | Software Engineering Microcredential | EverUp | 2022 |
 
