@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdulla Saleh 👋</h1>
 
 <p align="center">
-  CS graduate · CUNY Hunter College · Economics minor <br/>
+  CS graduate · City Univerity of New York <br/>
   Actively seeking full-time roles in <strong>Software Engineering</strong>, <strong>Data Analysis</strong>, and <strong>adjacent technical roles</strong>.<br/>
   Open to on-site, hybrid, or remote opportunities.
 </p>
